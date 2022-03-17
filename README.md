@@ -1,1 +1,1 @@
-# portfolio for my finished projects in Python
+# Portfolio of my finished projects in Python.
